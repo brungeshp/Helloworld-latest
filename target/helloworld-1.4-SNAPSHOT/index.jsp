@@ -6,13 +6,13 @@
 <title> Welcome to Devops traning  2026 </title>
 <style>
   body {
-    background-color: blue;
+    background-color: yellow;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to  Devops traning 2026 </h1>
-<p> Welcome to  Devops traning for 2026 oct Evening Batch.</p>
+<h1>Kannada Rajyotsava </h1>
+<p> Welcome to  Devops traning for 2023 oct Evening Batch.</p>
 </body>
 </html>
 
